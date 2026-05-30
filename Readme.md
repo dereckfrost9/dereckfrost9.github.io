@@ -54,5 +54,5 @@ The basic logic flow of the script is this:
 
 This repo publishes to [GitHub Pages](https://pages.github.com/) for free hosting of the images and captions. When the files in the "Web" directory are edited, the website is re-published. As long as the filenames stay the same (images are 1.jpg, 2.jpg, etc.) - the URLs in the world will point to the newly published files. Republishing happens automatically through [an included GitHub Action](https://github.com/vrchat-community/examples-image-loading/actions/workflows/static.yml).
 
-<img width="2048" height="2048" alt="Posters2" src="https://github.com/user-attachments/assets/2bb7e9bb-3a02-4ffb-8b68-19253e9b9c8d" />
+<img width="2048" height="2048" alt="Posters2" src="https://github.com/user-attachments/assets/16e03e37-4163-4668-8132-ae03826b8049" />
 <img width="1024" height="1024" alt="Posters1" src="https://github.com/user-attachments/assets/13dc07b2-8315-4da3-a2e1-6e6332a78f2c" />
